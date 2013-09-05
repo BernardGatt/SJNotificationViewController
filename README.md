@@ -51,3 +51,7 @@ By default, a notification doesn't have a spinner, but you can give it one by ca
 
 If you want to get into the .m file, you can change the colours that correspond to the different notification levels, the durations of the various animations, and the opacity of the notification's background.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/BernardGatt/sjnotificationviewcontroller/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
